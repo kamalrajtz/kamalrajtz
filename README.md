@@ -6,7 +6,8 @@ Hi there 👋, This is Kamalraj Thnageswaran.
 - 📫 How to reach me: kmlrj1999@gmail.com
 
 Languages:
-<img src="https://github.com/kamalrajtz/kamalrajtz/assets/84303500/e40216c1-9f62-42b0-9c4f-f5fa0c87d56b" width="200" height="400" />(https://github.com/kamalrajtz/kamalrajtz/assets/84303500/75ad4c87-1a55-4cc5-b5fa-ce52dbfe10d5) ![javascript-original](https://github.com/kamalrajtz/kamalrajtz/assets/84303500/b5d14f57-b9b4-4374-bbda-10c15488905a)
+
+<img src="https://github.com/kamalrajtz/kamalrajtz/assets/84303500/e40216c1-9f62-42b0-9c4f-f5fa0c87d56b" width="70" height="70" />(https://github.com/kamalrajtz/kamalrajtz/assets/84303500/75ad4c87-1a55-4cc5-b5fa-ce52dbfe10d5) ![javascript-original](https://github.com/kamalrajtz/kamalrajtz/assets/84303500/b5d14f57-b9b4-4374-bbda-10c15488905a)
 
 
 
