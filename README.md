@@ -18,7 +18,7 @@
 
 
 
-<a href="https://getbootstrap.com/"><img src="https://github.com/kamalrajtz/kamalrajtz/assets/84303500/01a35d9f-5b33-47e0-9a41-f111ae5637f1" width="65" height="50" /></a>
+<a href="https://getbootstrap.com/"><img src="https://github.com/kamalrajtz/kamalrajtz/assets/84303500/01a35d9f-5b33-47e0-9a41-f111ae5637f1" width="63" height="50" /></a>
 &nbsp;
 <a href="https://react.dev/"><img src="https://github.com/kamalrajtz/kamalrajtz/assets/84303500/b5cc96c4-b530-45d5-b316-fc40a82d1c4c" width="50" height="50" /></a>
 &nbsp;
