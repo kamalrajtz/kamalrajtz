@@ -1,4 +1,6 @@
 <h1 align="center">Hi there 👋, This is Kamalraj Thangeswaran.</h1>
+
+<h2 align="center">An Aspiring Frontend Developer</h2>
 <ul>
   <li>👩‍💻 I'm a Frontend Developer</li>
   <li>🔭 I’m currently working on HTML, CSS, JavaScript, React, C#</li>
@@ -7,7 +9,7 @@
   <li>📫 How to reach me: kmlrj1999@gmail.com</li>
 </ul>
 
-<h4>Languages:</h4>
+<h3>Languages:</h3>
 
 
 <a href="https://github.com/topics/html" rel="nofollow"><img src="https://github.com/kamalrajtz/kamalrajtz/assets/84303500/e40216c1-9f62-42b0-9c4f-f5fa0c87d56b" width="60" height="60" /></a> <a href="https://github.com/topics/css"><img src="https://github.com/kamalrajtz/kamalrajtz/assets/84303500/75ad4c87-1a55-4cc5-b5fa-ce52dbfe10d5" width="50" height="60" /></a> <a href="https://github.com/topics/javascript"><img src="https://github.com/kamalrajtz/kamalrajtz/assets/84303500/b5d14f57-b9b4-4374-bbda-10c15488905a" width="50" height="50" /></a>
@@ -15,7 +17,7 @@
 
 
 
-<h4>Frameworks:</h4>
+<h3>Frameworks:</h3>
 
 
 
@@ -29,7 +31,7 @@
 <a href="https://ionicframework.com/"><img src="https://github.com/kamalrajtz/kamalrajtz/assets/84303500/aa79c241-6816-4834-b1d8-e4ab57bdd1d9" width="50" height="50" /></a>
 </p>
 
-<h4>Tools:</h4>
+<h3>Tools:</h3>
 
 
 
