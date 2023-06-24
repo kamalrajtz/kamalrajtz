@@ -26,5 +26,4 @@ Frameworks:
 Tools:
 Photoshop
 
-
-
+<img src="https://github.com/kamalrajtz/kamalrajtz/assets/84303500/705250e6-fc11-4af8-a64a-bccb1a410bfc" width="60" height="60" />
