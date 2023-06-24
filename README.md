@@ -18,13 +18,13 @@
 
 
 
-<a href="https://getbootstrap.com/"><img src="https://github.com/kamalrajtz/kamalrajtz/assets/84303500/01a35d9f-5b33-47e0-9a41-f111ae5637f1" width="75" height="60" /></a>
+<a href="https://getbootstrap.com/"><img src="https://github.com/kamalrajtz/kamalrajtz/assets/84303500/01a35d9f-5b33-47e0-9a41-f111ae5637f1" width="65" height="50" /></a>
 &nbsp;
-<a href="https://react.dev/"><img src="https://github.com/kamalrajtz/kamalrajtz/assets/84303500/b5cc96c4-b530-45d5-b316-fc40a82d1c4c" width="60" height="60" /></a>
+<a href="https://react.dev/"><img src="https://github.com/kamalrajtz/kamalrajtz/assets/84303500/b5cc96c4-b530-45d5-b316-fc40a82d1c4c" width="50" height="50" /></a>
 &nbsp;
-<a href="https://tailwindcss.com/"><img src="https://github.com/kamalrajtz/kamalrajtz/assets/84303500/4ad401de-1e2c-486a-9726-044d95ffff50" width="60" height="60" /></a>
+<a href="https://tailwindcss.com/"><img src="https://github.com/kamalrajtz/kamalrajtz/assets/84303500/4ad401de-1e2c-486a-9726-044d95ffff50" width="50" height="50" /></a>
 &nbsp;
-<a href="https://ionicframework.com/"><img src="https://github.com/kamalrajtz/kamalrajtz/assets/84303500/aa79c241-6816-4834-b1d8-e4ab57bdd1d9" width="60" height="60" /></a>
+<a href="https://ionicframework.com/"><img src="https://github.com/kamalrajtz/kamalrajtz/assets/84303500/aa79c241-6816-4834-b1d8-e4ab57bdd1d9" width="50" height="50" /></a>
 
 
 <h4>Tools:</h4>
