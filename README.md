@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi there 👋, This is Kamalraj Thnageswaran.
+- 👩‍💻 I'm a Frontend Developer
+- 🔭 I’m currently working on HTML, CSS, JavaScript, React, C#
+- 🌱 I’m currently learning React with Ionic Framework
+- 💬 Ask me about HTML, CSS
+- 📫 How to reach me: kmlrj1999@gmail.com
 
-<!--
-**kamalrajtz/kamalrajtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages:
+HTML, CSS, JavaScript
 
-Here are some ideas to get you started:
+Frameworks:
+Bootstrap, React Bootstrap, Tailwind CSS, Ionic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools:
+Photoshop
+
+
+
