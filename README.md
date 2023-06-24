@@ -6,7 +6,10 @@ Hi there 👋, This is Kamalraj Thnageswaran.
 - 📫 How to reach me: kmlrj1999@gmail.com
 
 Languages:
-![HTML5_logo_and_wordmark svg](https://github.com/kamalrajtz/kamalrajtz/assets/84303500/35b4020f-64c6-405e-8a2d-f66b64ec34c8)
+![html5-original-wordmark](https://github.com/kamalrajtz/kamalrajtz/assets/84303500/e40216c1-9f62-42b0-9c4f-f5fa0c87d56b) ![css3-original-wordmark](https://github.com/kamalrajtz/kamalrajtz/assets/84303500/75ad4c87-1a55-4cc5-b5fa-ce52dbfe10d5) ![javascript-original](https://github.com/kamalrajtz/kamalrajtz/assets/84303500/b5d14f57-b9b4-4374-bbda-10c15488905a)
+
+
+
 
 Frameworks:
 Bootstrap, React Bootstrap, Tailwind CSS, Ionic
