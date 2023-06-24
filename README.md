@@ -1,4 +1,4 @@
-Hi there 👋, This is Kamalraj Thnageswaran.
+<h>Hi there 👋, This is Kamalraj Thnageswaran.</h1>
 - 👩‍💻 I'm a Frontend Developer
 - 🔭 I’m currently working on HTML, CSS, JavaScript, React, C#
 - 🌱 I’m currently learning React with Ionic Framework
