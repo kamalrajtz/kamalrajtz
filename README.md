@@ -9,6 +9,7 @@ Languages:
 HTML, CSS, JavaScript
 
 Frameworks:
+![win-logo](https://github.com/kamalrajtz/kamalrajtz/assets/84303500/734eda54-7a59-4e4a-84fa-f1bcb1e27d47)
 Bootstrap, React Bootstrap, Tailwind CSS, Ionic
 
 Tools:
