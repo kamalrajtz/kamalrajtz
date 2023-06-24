@@ -1,9 +1,11 @@
 <h1 align="center">Hi there 👋, This is Kamalraj Thangeswaran.</h1>
-- 👩‍💻 I'm a Frontend Developer
-- 🔭 I’m currently working on HTML, CSS, JavaScript, React, C#
-- 🌱 I’m currently learning React with Ionic Framework
-- 💬 Ask me about HTML, CSS
-- 📫 How to reach me: kmlrj1999@gmail.com
+<ul>
+  <li>- 👩‍💻 I'm a Frontend Developer</li>
+  <li>- 🔭 I’m currently working on HTML, CSS, JavaScript, React, C#</li>
+  <li>- 🌱 I’m currently learning React with Ionic Framework</li>
+  <li>- 💬 Ask me about HTML, CSS</li>
+  <li>- 📫 How to reach me: kmlrj1999@gmail.com</li>
+</ul>
 
 <h4>Languages:</h4>
 
