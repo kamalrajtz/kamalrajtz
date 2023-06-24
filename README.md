@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, This is Kamalraj Thangeswaran.</h1>
 
-<h2 align="center" style="margin-bottom: 30px">An Aspiring Frontend Developer</h2>
+<h2 align="center" style="margin-bottom: 30px;">An Aspiring Frontend Developer</h2>
 <ul>
   <li>👩‍💻 I'm a Frontend Developer</li>
   <li>🔭 I’m currently working on HTML, CSS, JavaScript, React, C#</li>
