@@ -6,7 +6,7 @@
   <li>🔭 I’m currently working on HTML, CSS, JavaScript, React, C#</li>
   <li>🌱 I’m currently learning React with Ionic Framework</li>
   <li>💬 Ask me about HTML, CSS</li>
-  <li>📫 How to reach me: <a>kmlrj1999@gmail.com</a></li>
+  <li>📫 How to reach me: <a href="mailto:kmlrj1999@gmail.com">kmlrj1999@gmail.com</a></li>
 </ul>
 
 <h3>Languages:</h3>
