@@ -3,9 +3,8 @@
 <h2 align="center">An Aspiring Frontend Developer</h2>
 <ul>
   <li>👩‍💻 I'm a Frontend Developer</li>
-  <li>🔭 I’m currently working on HTML, CSS, JavaScript, React, C#</li>
-  <li>🌱 I’m currently learning React with Ionic Framework</li>
-  <li>💬 Ask me about HTML, CSS</li>
+  <li>🔭 I’m currently working on HTML, CSS, JavaScript, ReactJs, NextJs, TailwindCSS</li>
+  <li>🌱 I’m currently learning React Native & Python</li>
   <li>📫 How to reach me: <a href="mailto:kmlrj1999@gmail.com">kmlrj1999@gmail.com</a></li>
 </ul>
 
