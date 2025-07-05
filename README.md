@@ -13,7 +13,7 @@
 - 🌱 Currently growing in the **React Native UI & Python(Flask)** development space.
 - 💼 Former Fullstack Developer at **RectoQ Software Solutions, Bengaluru**.
 - 🛠️ Skilled in **HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS, Laravel, MySQL**, and more.
-- 🌐 Built and deployed **30+ websites** with robust backend systems and responsive UI/UX.
+- 🌐 Built and deployed **30+ websites** with Static & Dynamic and responsive UI/UX.
 - 🏆 Awarded the **Shine Maker Award** for excellence and dedication.
 
 ---
