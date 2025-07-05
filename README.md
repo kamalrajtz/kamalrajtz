@@ -9,8 +9,8 @@
 ---
 
 ## 🧑‍💻 About Me
-
-- 🌱 Currently growing in the **React Native UI** development space.
+- 💻 **Reactjs, Next.js** Enthusiast and **Tailwind CSS** Expert
+- 🌱 Currently growing in the **React Native UI & Python(Flask)** development space.
 - 💼 Former Fullstack Developer at **RectoQ Software Solutions, Bengaluru**.
 - 🛠️ Skilled in **HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS, Laravel, MySQL**, and more.
 - 🌐 Built and deployed **30+ websites** with robust backend systems and responsive UI/UX.
